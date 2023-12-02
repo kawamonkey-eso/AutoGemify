@@ -1,0 +1,6 @@
+## APIVersion: 101036
+## Title: Auto Gemify
+## Author: Kawamonkey
+## Version: 1.0
+
+AutoGemify.lua
